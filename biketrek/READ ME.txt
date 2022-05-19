@@ -1,0 +1,178 @@
+####################
+
+
+FROM THE PAGES YOU'VE BEEN GIVEN
+
+For the Private safari and sharing safari, follow the information below.
+
+--------------------------------------------
+
+
+1. in the META SECTION
+_________________________
+
+in this part, replace the content there with this new below and change the number of days according to the package 
+
+"This 6 days Big 5 Tanzania safari tour is an ideal vacation for all who want to explore the real power of the wilderness for camping/sharing/joining/ safari"
+
+<meta name="description" content="  ">
+
+and
+
+<meta property="og:description" content="  ">
+
+
+
+
+And in the 
+
+<meta name="keywords" content="   ">
+
+place these keywords below
+
+"Tanzania 6 days Tour, Tanzania safari 6 days, 6 days camping safari in Tanzania, Tanzania 6 days sharing, budget safari 6 days in Tanzania, Luxury safari 6 days"
+
+
+
+________________________
+
+
+
+
+2. In the body part
+________________________
+
+Below the <h1>  </h1> tag place the paragraph tags 
+
+<p style="color:lightgray">  </p>
+
+and place the text below
+
+"This 6 days Big 5 Tanzania safari tour in Destination1, Destination2,and DestinationN is an ideal vacation for all who want to explore the real power of the wilderness for those who prefer camping safari, lodge safari, luxury safari or sharing/joining/budget safari"
+
+
+
+-----------------------------------------------
+
+FOR THE SERENGETI MIGRATIONS 
+
+IN meta sections replace the contents with the texts below as you do from the above
+
+Descriptions: "4-Days Tanzania Wildebeest Migration Safari is special organized tour trip to Serengeti for the purpose of tracking of wildebeests crossing the Mara-river."
+
+Keywords: "4 days migration safari,Tanzania Serengeti 4 days Safari, Serengeti 4 days,Serengeti Migration 4 days Safari, Tanzania Serengeti Migration Safari 4 days ,Tanzania Safari Operator"
+
+____________________________
+
+IN BODY PART
+
+Paragraph: "This 4-Days Tanzania Wildebeest Migration Safari tour in Destination1, Destination2, DestinationN is special organized tour trip to Serengeti National Parks for the purpose of tracking the Migration of wildebeests crossing the Mara-river in amazing and unique pattern."
+
+
+
+--------------------------------------------
+
+
+
+
+
+
+
+
+
+
+FOR KILIMANJARO PACKAGES
+---------------------------------------------
+
+IN THE TITLE TAGS 
+
+<title>   </title>
+
+<meta name="title" content=" ">
+
+<meta property="og:description" content="  ">
+
+USE THIS TITLE BELOW AS DEFAULT AND REPLACE THE EXISTING ONE
+
+"4 DAYS KILIMANJARO HIKING-TREKKING-CLIMBING TOUR VIA MACHAME ROUTE"
+
+Replace the day and route according to the dedicated package
+
+____________________
+
+
+
+IN THE OTHER META TAGS AS YOU DO FROM THE ABOVE
+
+for meta descriptions use the text below
+
+Descriptions: "This 8 days climbing/trekking/hiking tour via Lemosho route gives you the chance to reach Mount Kilimanjaro as World Heritage because of its natural beauty."
+
+Keywords: "climbing tour via lemosho route 8 days, 8 days lemosho route, kilimanjaro 8 days trekking tour, 8 days hiking tour via Lemosho, Kilimanjaro hiking operator"
+
+
+
+
+IN THE BODY PART
+
+do as you do from the above and in the paragraph below <h1> place the text below
+
+Paragraph: "This 8 days climbing/trekking/hiking tour via Lemosho route gives you the chance to reach Mount Kilimanjaro (The highest mountain in Africa and highest standalone peak in the world) as World Heritage because of its natural beauty. The variety of vegetation and landscapes is amazing due to the mountains location"
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZANZIBAR TOUR
+
+---------------------------------------------------
+
+IN THE TITLE TAGS 
+
+<title>   </title>
+
+<meta name="title" content=" ">
+
+<meta property="og:description" content="  ">
+
+USE THIS TITLE BELOW AS DEFAULT AND REPLACE THE EXISTING ONE
+
+"4 DAYS ZANZIBAR ISLANDS SAFARI TOUR BEACH-HOLIDAY-HONEYMOON PACKAGE"
+
+Replace the day and route according to the dedicated package
+
+____________________
+
+
+
+IN THE OTHER META TAGS AS YOU DO FROM THE ABOVE
+
+for meta descriptions use the text below
+
+Descriptions: "4 Days safari tour in Zanzibar Islands for vacations, beach, holidays or honeymoon. Also, to visit different historical places and coastal culture in Tanzania"
+
+Keywords: "Zanzibar,Zanzibar Tours,Zanzibar Vacations,Zanzibar Holiday,Zanzibar Honeymoon,Zanzibar Tour Operator"
+
+
+
+
+IN THE BODY PART
+
+do as you do from the above and in the paragraph below <h1> place the text below
+
+Paragraph: "This 4 Days safari tour in Zanzibar Islands is an organized tour for vacations, beach safari, holidays or honeymoon. Also, it gives you the chance to visit different historical places and coastal culture  that found in Tanzania"
+
+------------------------------------------------------------------------
+
+
